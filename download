@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/
+
+# Generated model files (optional: remove these lines to commit the trained model)
+# mushroom_model.pkl
+# encoders.pkl
+# mushrooms.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
